@@ -4,7 +4,7 @@
 
 Este repositório contém os projetos e desafios desenvolvidos durante o **Bootcamp Back-End com .NET**, oferecido pela **Digital Innovation One (DIO)** em parceria com a **Randstad**. Durante essa jornada, foram abordados temas essenciais para o desenvolvimento back-end, como **C#, .NET, banco de dados, APIs REST e deploy na nuvem**, sempre com foco na aplicação prática.
 
-📅 **Período:** [Inserir Data de Início] - [Inserir Data de Conclusão]  
+📅 **Período:** 09/09/2024 - 31/10/2024  
 📍 **Plataforma:** [DIO - Digital Innovation One](https://www.dio.me/)  
 💡 **Tecnologias:** C#, .NET, APIs REST, Banco de Dados (SQL Server), Arquitetura Back-End  
 
@@ -19,7 +19,6 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 - **[Módulo 5 - Programação Orientada a Objetos (POO)](#módulo-5---programação-orientada-a-objetos-poo)**
 - **[Módulo 6 - Banco de Dados](#módulo-6---banco-de-dados)**
 - **[Módulo 7 - Desenvolvimento de APIs com .NET](#módulo-7---desenvolvimento-de-apis-com-net)**
-- **[📎 Repositórios das Atividades das Aulas](#-repositórios-das-atividades-das-aulas)**
 
 ---
 
@@ -102,16 +101,6 @@ Este repositório contém os projetos e desafios desenvolvidos durante o **Bootc
 
 📁 **Projetos & Desafios:**
 - [Criação de API REST com .NET](https://github.com/FAyllan111/Modulo_API)
-
----
-
-## 📎 Repositórios das Atividades das Aulas
-
-Além dos projetos principais, diversas atividades foram desenvolvidas ao longo do bootcamp para reforçar conceitos e aplicar o aprendizado na prática.
-
-- [Atividades sobre Fundamentos do .NET e C#](https://github.com/FAyllan111/atividades-dotnet)
-- [Atividades sobre POO e Estruturas de Dados](https://github.com/FAyllan111/atividades-poo-dotnet)
-- [Atividades sobre APIs REST com .NET](https://github.com/FAyllan111/atividades-apis-dotnet)
 
 ---
 
