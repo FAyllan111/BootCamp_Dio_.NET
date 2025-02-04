@@ -121,8 +121,8 @@ Este bootcamp foi uma experiência enriquecedora, onde pude consolidar conhecime
 
 Se você também está participando ou deseja trocar experiências sobre **.NET, C# e desenvolvimento back-end**, fique à vontade para se conectar comigo! 🚀
 
-📧 **E-mail:** [seuemail@email.com]  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil]  
-🐙 **GitHub:** [github.com/seu-usuario]  
+📧 **E-mail:** [franciscoayllan@gmail.com]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ayllan-silva]  
+🐙 **GitHub:** [https://github.com/FAyllan111)]   
 
 A jornada está apenas começando! 💪🚀 #DotNet #CSharp #APIs #SQLServer #BackEnd #Bootcamp #GitHub
