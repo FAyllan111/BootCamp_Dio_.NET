@@ -1,92 +1,128 @@
-# Repositório Central: Bootcamp Back-End com .NET
+# 🚀 Bootcamp Back-End com .NET - DIO & Randstad
 
-## Sobre o Bootcamp
+![.NET Bootcamp](https://assets.dio.me/diMbE_sYliLoQ7YV0LKPpbu5AMrMKpT_biV-6GUMm7Q/f:webp/q:80/w:437/L3RyYWNrcy9jb3Zlci80Mzg0MjFiZC03NGI3LTQ5YjMtYmYxOC0wNjA5MWIxNDBjNjMucG5n)
 
-Este repositório reúne todos os projetos desenvolvidos durante o bootcamp **Back-End com .NET**, oferecido pela **Digital Innovation One (DIO)** em parceria com a **Randstad**. O programa intensivo abordou tópicos como **C#**, **.NET**, **banco de dados**, **APIs**, e **deploy na nuvem**, com ênfase em desenvolvimento prático e soluções de alta performance.
+Este repositório contém os projetos e desafios desenvolvidos durante o **Bootcamp Back-End com .NET**, oferecido pela **Digital Innovation One (DIO)** em parceria com a **Randstad**. Durante essa jornada, foram abordados temas essenciais para o desenvolvimento back-end, como **C#, .NET, banco de dados, APIs REST e deploy na nuvem**, sempre com foco na aplicação prática.
 
----
-
-## Projetos Desenvolvidos
-
-Aqui estão os projetos organizados por módulos e tópicos abordados durante o bootcamp:
-
-### 1. **Versionamento de Código**
-- **Repositório:** [dio-curso-git-github](https://github.com/FAyllan111/dio-curso-git-github)  
-- **Descrição:** Curso sobre versionamento de código com Git e GitHub, explorando conceitos de repositórios, commits, branches e pull requests.
+📅 **Período:** [Inserir Data de Início] - [Inserir Data de Conclusão]  
+📍 **Plataforma:** [DIO - Digital Innovation One](https://www.dio.me/)  
+💡 **Tecnologias:** C#, .NET, APIs REST, Banco de Dados (SQL Server), Arquitetura Back-End  
 
 ---
 
-### 2. **Contribuições Open Source**
-- **Repositório:** [dio-lab-open-source](https://github.com/FAyllan111/dio-lab-open-source)  
-- **Descrição:** Lab prático para aprender a contribuir em projetos Open Source no GitHub, aplicando boas práticas de colaboração.
+## 📂 Estrutura do Repositório
+
+- **[Módulo 1 - Versionamento de Código](#módulo-1---versionamento-de-código)**
+- **[Módulo 2 - Contribuições Open Source](#módulo-2---contribuições-open-source)**
+- **[Módulo 3 - Fundamentos do .NET e C#](#módulo-3---fundamentos-do-net-e-c)**
+- **[Módulo 4 - Dados e Listas](#módulo-4---dados-e-listas)**
+- **[Módulo 5 - Programação Orientada a Objetos (POO)](#módulo-5---programação-orientada-a-objetos-poo)**
+- **[Módulo 6 - Banco de Dados](#módulo-6---banco-de-dados)**
+- **[Módulo 7 - Desenvolvimento de APIs com .NET](#módulo-7---desenvolvimento-de-apis-com-net)**
+- **[📎 Repositórios das Atividades das Aulas](#-repositórios-das-atividades-das-aulas)**
 
 ---
 
-### 3. **Fundamentos do .NET e C#**
-- **Repositório:** [Lab1_Dio](https://github.com/FAyllan111/Lab1_Dio)  
-- **Projeto:** Sistema de Estacionamento.  
-- **Descrição:** Desenvolvimento de um sistema para gerenciar vagas de estacionamento utilizando conceitos básicos de C# e .NET.
+## Módulo 1 - Versionamento de Código
 
-- **Repositório:** [DIO_Dotnet-Fundamentos](https://github.com/FAyllan111/DIO_Dotnet-Fundamentos)  
-- **Descrição:** Estudos práticos sobre a plataforma .NET e a linguagem C#, com foco nos fundamentos do desenvolvimento back-end.
+📌 **Conceitos abordados:**
+- Fundamentos do Git e GitHub
+- Controle de versões com commits, branches e pull requests
 
----
-
-### 4. **Dados e Listas**
-- **Repositório:** [Dados-e-Listas-DIO](https://github.com/FAyllan111/Dados-e-Listas-DIO)  
-- **Descrição:** Estudo de coleções e manipulação de dados com listas em C#.
-
-- **Repositório:** [Desafio2_DIO](https://github.com/FAyllan111/Desafio2_DIO)  
-- **Projeto:** Sistema de Hospedagem de Hotel.  
-- **Descrição:** Implementação de um sistema para gerenciar reservas de hospedagem, aplicando manipulação de listas e regras de negócio.
+📁 **Projetos & Desafios:**
+- [Curso Git & GitHub](https://github.com/FAyllan111/dio-curso-git-github)
 
 ---
 
-### 5. **Programação Orientada a Objetos (POO)**
-- **Repositório:** [POO_Dio](https://github.com/FAyllan111/POO_Dio)  
-- **Descrição:** Estudos sobre os pilares da Programação Orientada a Objetos (herança, polimorfismo, encapsulamento e abstração) em C#.
+## Módulo 2 - Contribuições Open Source
 
-- **Repositório:** [Desafio3_Dio](https://github.com/FAyllan111/Desafio3_Dio)  
-- **Projeto:** Sistema de Celular.  
-- **Descrição:** Desenvolvimento de um sistema que abstrai o funcionamento de um celular, aplicando conceitos de POO.
+📌 **Conceitos abordados:**
+- Como contribuir para repositórios Open Source
+- Boas práticas de colaboração no GitHub
 
----
-
-### 6. **Banco de Dados**
-- **Repositório:** [introducao_DB](https://github.com/FAyllan111/introducao_DB)  
-- **Descrição:** Introdução a banco de dados relacionais e integração com aplicações .NET.
+📁 **Projetos & Desafios:**
+- [Lab Open Source](https://github.com/FAyllan111/dio-lab-open-source)
 
 ---
 
-### 7. **APIs com .NET**
-- **Repositório:** [Modulo_API](https://github.com/FAyllan111/Modulo_API)  
-- **Descrição:** Desenvolvimento de APIs RESTful utilizando o framework .NET, incluindo boas práticas de versionamento e segurança.
+## Módulo 3 - Fundamentos do .NET e C#
+
+📌 **Conceitos abordados:**
+- Estrutura da plataforma .NET
+- Sintaxe básica do C#
+- Desenvolvimento de aplicações back-end
+
+📁 **Projetos & Desafios:**
+- [Sistema de Estacionamento](https://github.com/FAyllan111/Lab1_Dio)
+- [Fundamentos do .NET](https://github.com/FAyllan111/DIO_Dotnet-Fundamentos)
 
 ---
 
-## Como Navegar nos Repositórios
+## Módulo 4 - Dados e Listas
 
-Cada projeto contém um README próprio com:
-- Descrição detalhada.
-- Passo a passo para execução do código.
-- Tecnologias utilizadas.
+📌 **Conceitos abordados:**
+- Manipulação de coleções e listas em C#
+- Estruturas de dados dinâmicas
 
----
-
-## Tecnologias Abordadas
-- **Linguagem:** C#  
-- **Framework:** .NET  
-- **Banco de Dados:** SQL Server  
-- **Versionamento:** Git e GitHub  
-- **APIs:** RESTful com .NET  
-- **Outros:** Programação Orientada a Objetos (POO), manipulação de listas e boas práticas de desenvolvimento.
+📁 **Projetos & Desafios:**
+- [Manipulação de Listas](https://github.com/FAyllan111/Dados-e-Listas-DIO)
+- [Sistema de Hospedagem de Hotel](https://github.com/FAyllan111/Desafio2_DIO)
 
 ---
 
-## Sobre o Bootcamp
-O bootcamp foi uma experiência prática intensiva, com mentorias de especialistas da **DIO** e **Randstad** e participação em desafios de código. O foco foi desenvolver habilidades para criar aplicações robustas e escaláveis, utilizando a stack completa da Microsoft.
+## Módulo 5 - Programação Orientada a Objetos (POO)
+
+📌 **Conceitos abordados:**
+- Princípios da POO: Encapsulamento, Herança, Polimorfismo e Abstração
+- Implementação de classes e interfaces
+
+📁 **Projetos & Desafios:**
+- [Estudo sobre POO](https://github.com/FAyllan111/POO_Dio)
+- [Sistema de Celular](https://github.com/FAyllan111/Desafio3_Dio)
 
 ---
 
-## Licença
-Os projetos deste repositório são para fins educacionais e estão disponíveis para consulta e prática.
+## Módulo 6 - Banco de Dados
+
+📌 **Conceitos abordados:**
+- Modelagem e estruturação de bancos de dados relacionais (SQL Server)
+- Integração de bancos de dados com aplicações .NET
+
+📁 **Projetos & Desafios:**
+- [Introdução a Banco de Dados](https://github.com/FAyllan111/introducao_DB)
+
+---
+
+## Módulo 7 - Desenvolvimento de APIs com .NET
+
+📌 **Conceitos abordados:**
+- Criação de APIs RESTful com .NET
+- Segurança e versionamento de APIs
+- Boas práticas para desenvolvimento escalável
+
+📁 **Projetos & Desafios:**
+- [Criação de API REST com .NET](https://github.com/FAyllan111/Modulo_API)
+
+---
+
+## 📎 Repositórios das Atividades das Aulas
+
+Além dos projetos principais, diversas atividades foram desenvolvidas ao longo do bootcamp para reforçar conceitos e aplicar o aprendizado na prática.
+
+- [Atividades sobre Fundamentos do .NET e C#](https://github.com/FAyllan111/atividades-dotnet)
+- [Atividades sobre POO e Estruturas de Dados](https://github.com/FAyllan111/atividades-poo-dotnet)
+- [Atividades sobre APIs REST com .NET](https://github.com/FAyllan111/atividades-apis-dotnet)
+
+---
+
+## 📢 Conclusão e Contato
+
+Este bootcamp foi uma experiência enriquecedora, onde pude consolidar conhecimentos sobre **desenvolvimento back-end com .NET, APIs REST e banco de dados**, além de aprimorar boas práticas de versionamento e arquitetura de software. 
+
+Se você também está participando ou deseja trocar experiências sobre **.NET, C# e desenvolvimento back-end**, fique à vontade para se conectar comigo! 🚀
+
+📧 **E-mail:** [seuemail@email.com]  
+🔗 **LinkedIn:** [linkedin.com/in/seu-perfil]  
+🐙 **GitHub:** [github.com/seu-usuario]  
+
+A jornada está apenas começando! 💪🚀 #DotNet #CSharp #APIs #SQLServer #BackEnd #Bootcamp #GitHub
